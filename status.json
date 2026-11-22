@@ -1,9 +1,9 @@
 {
-  "issued_at": "2026-11-22T09:44:14Z",
-  "note": "stop test",
-  "revoke_all": true,
+  "issued_at": "2026-11-22T09:48:15Z",
+  "note": "restored",
+  "revoke_all": false,
   "revoked_codes": [],
   "schema": 1,
-  "signature": "k4il8D972mtW5WJ8cuJ+coQ0HG6WqUkidLOx7JGhcyOnv0ssNWp+cBmma36uB90NbPX0eyRPyO6YF70niVRntirBnUjNFDArJduSHhwQl3BXqS30NhdmDVetVbyWse4mMn9GOZ5cGLqKHWx2JpSNkbFsNHGw4B0Dxwil/Hu3ST+d9VpNvp5I2JSl8YhZqwCMTkuSN8MQdCbc/lIZod3+7H3iJVfLoqI5ast1lKhxYbODu+GhmIhwMrWoHEqnbJ51/y9NESfzIYsdXab0fxNLP8H/xuzR979yGCMm/2m03jjOv/CQkLXpTF8ROeKUMAXLXkKu9DiACMcQFrGdYWmOJw==",
+  "signature": "oeHaEbojylgnFDqlWDsNdDkH4uSM5zcuCGDaYvQZIoUqjn7VE8QaUR4utALsV52JL1pL1XHpWaf4JuRYHDm2Rd37UJww9P/Bzw16aUNw6wbuhyMIavHFYYZZ8qIOqKckuHDK1mF6O6QjgWDZ6JES3/dW6B7GwsZfnlnqafUfZQ4ZY0Y2eIjbzdQWn56V+CukTv8yLMOId86mA8+wMGd+r7+Rfx0psh/DbkGTLcPs+anT3wLgSocMSLDDJXEGNK3beR1ZGGW+DdYJyAl9Ni8SzxjlMP1lnbI56RJHrcsQAbl9vsTDphswSggdazkrXUXSoO7ddVXTVuBAYqlHEkhv8A==",
   "valid_until": "2027-12-31T23:59:59Z"
 }
