@@ -1,0 +1,9 @@
+{
+  "issued_at": "2026-11-22T09:28:54Z",
+  "note": "initial",
+  "revoke_all": false,
+  "revoked_codes": [],
+  "schema": 1,
+  "signature": "ytQmIJNNLvQj2WSf52HYCnsW1UjOtMX8VBLiaj3AnyuO6NVF0bYmo/DvIq8R3hCV+z4Wd6BdAEyQRcPrJUVJDlF+A6Wkt+tGkKpCQuIE5a4N6sxi05gu9n0ttq5YQRjJwd/u1rpltSMMBTRsc/9ba8bkAQ6X+4hFklzQug2Fhv7yETZgKoE14SXz+9kE8+sk6wUxxKD5MygB1AZ0Bj1kkMpg8//Dfsr6UOok0+ICOQDuowfV2fzjetUc3v5JM3FLCxwjA6bR9cYutkmGoDsCwf2YU7JpHw23MXjn7GQqnIYxRw5bqdOdoDpq0MPhd7hoYIB/NH6AXr4TVL5IYk2XIw==",
+  "valid_until": "2027-12-31T23:59:59Z"
+}
